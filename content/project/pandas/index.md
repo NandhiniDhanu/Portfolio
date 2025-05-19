@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+title: AWS TLQ Pipeline
+date: 2022-11-10
+external_link: https://github.com/NandhiniDhanu/AWS-Lambda-TLQ-Transform-Load-Query-Data-Pipeline/tree/master
+# tags:
+#   - Hugo
+#   - Wowchemy
+#   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Built a scalable, event-driven data pipeline using Java and AWS services (Lambda, ECS, API Gateway) to streamline the processing of large dynamic datasets with optimized cost and latency.
 
 <!--more-->

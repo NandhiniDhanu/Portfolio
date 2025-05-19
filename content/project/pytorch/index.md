@@ -1,13 +1,13 @@
 ---
-title: PyTorch
-date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+title: Big Data Pipeline
+date: 2023-12-02
+external_link: https://github.com/NandhiniDhanu/Enhanced-Big-Data-Processing-Pipeline
+# tags:
+#   - Hugo
+#   - Wowchemy
+#   - Markdown
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Designed and implemented a high-performance ML pipeline using Python and Google Colab to accelerate big data analytics through efficient wrangling, modeling, and inference.
 
 <!--more-->
