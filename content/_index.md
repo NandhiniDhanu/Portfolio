@@ -19,9 +19,9 @@ sections:
         text: Download CV
         url: uploads/Resume.pdf
     design:
-      css_class: dark
+      # css_class: dark
       background:
-        color: black
+        # color: black
         image:
           # Add your image background to `assets/media/`.
           filename: stacked-peaks.svg
@@ -30,6 +30,16 @@ sections:
           size: cover
           position: center
           parallax: false
+
+  - block: resume-experience
+    id: experience
+    content:
+      title: Work Experience
+      filters:
+        folders:
+          - work
+    design:
+      view: timeline
   # - block: markdown
   #   content:
   #     title: '📚 My Research'

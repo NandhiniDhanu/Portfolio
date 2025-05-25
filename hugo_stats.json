@@ -90,7 +90,6 @@
       "course",
       "cursor-default",
       "cursor-pointer",
-      "dark",
       "dark:[&.active]:text-white",
       "dark:bg-gray-800",
       "dark:bg-hb-dark",
@@ -458,6 +457,7 @@
     ],
     "ids": [
       "about-me",
+      "experience",
       "hide-button",
       "moon",
       "nav-menu",

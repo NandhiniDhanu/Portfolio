@@ -91,19 +91,31 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: Full-Stack Engineer
+    company_name: Radiance Learning
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-04-15
+    date_end: ''
+    summary: |2-
+      Responsibilities:
+      - Developed a role-based backend using Node.js, Express, and MongoDB, supporting admin-restricted post creation and dynamic student mapping.
+      - Integrated REST APIs with a React.js frontend for dynamic UI rendering, leveraging Mongoose for DB operations, error handling, and role validation for scalable volunteer task workflows.
+      - Deploying the full-stack application on Azure App Service with Cosmos DB, integrating CI/CD and production-grade API routing.
+
   - position: Software Engineer
     company_name: Health Chain
     company_url: ''
     company_logo: ''
     date_start: 2024-06-02
-    date_end: ''
+    date_end: 2025-03-28
     summary: |2-
       Responsibilities:
       - Developed a Consent Management Portal in Next.js, utilizing TypeScript, React, and UI libraries like Tailwind CSS and Lucide Icons for a responsive and visually appealing interface.
       - Engineered and deployed backend services with API authentication and error handling for reliable healthcare data management.
       - Integrated dynamic UI components with API services using React Query, improving performance and state synchronization.
       - Built a scalable frontend architecture with modular components, client-side routing, and state management. 
-  - position: Software Engineer
+  - position: Software Development Engineer in Test
     company_name: Infosys Limited
     company_url: ''
     company_logo: ''
