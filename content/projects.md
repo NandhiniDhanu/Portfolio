@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
+      title: Projects
       text: Here are a collection of projects I worked on!
       filters:
         folders:
