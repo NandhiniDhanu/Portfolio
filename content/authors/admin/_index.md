@@ -72,11 +72,11 @@ education:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
   - area: BE Electronics and Communication Engineering
-    institution: College of Engineering, Guindy
+    institution: Anna University, India
     date_start: 2016-06-10
     date_end: 2020-04-15
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.4/4.0
       
       Completed foundational coursework in embedded systems, signal processing, and data communication. Designed and implemented an IoT-based emergency alert system as a final-year capstone, later published and presented at academic conferences.
   # - area: BSc Artificial Intelligence
