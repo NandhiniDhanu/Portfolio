@@ -50,7 +50,6 @@ interests:
   - Full-Stack Development
   - Cloud Infrastructure
   - Quality Assurance
-  - Data Engineering
 
 education:
   - area: MS Computer Science and Systems
@@ -99,9 +98,14 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities:
-      - Developed a role-based backend using Node.js, Express, and MongoDB, supporting admin-restricted post creation and dynamic student mapping.
-      - Integrated REST APIs with a React.js frontend for dynamic UI rendering, leveraging Mongoose for DB operations, error handling, and role validation for scalable volunteer task workflows.
-      - Deploying the full-stack application on Azure App Service with Cosmos DB, integrating CI/CD and production-grade API routing.
+      - Engineered a full-stack education platform with role-based access control for users enabling structured task delegation, secure user separation, and streamlined collaboration across user types.
+      - Developed 15+ RESTful APIs using Node.js (MongoDB) and Flask (PostgreSQL) for teacher/admin/parental messaging features,
+      deployed via Azure App Services, ensuring high availability and protection of sensitive student/teacher data.
+      - Designed a modular admin dashboard UI using Vue.js with interactive task views, drag-and-drop sticky notes, dynamic breadcrumbs,and conditional data rendering,improving administrative efficiency and enabling real-time oversight of student and teacher activity.
+      - Created and maintained MongoDB and PostgreSQL schemas with clean relational mappings and ensured full-stack integration,
+      reducing cross-service latency by 30% with schema alignment for real-time synchronization.
+      - Automated CI/CD pipelines with GitHub Actions and Azure deployment slots, incorporating linting, environment-based rollouts and unit tests, which reduced release time and improved delivery consistency.
+      - Facilitated sprint planning, design reviews with designers and backend engineers to align UX-API architecture, resulting in faster turnaround on frontend bugs and smoother cross-team integration.
 
   - position: Software Engineer
     company_name: Health Chain
@@ -111,10 +115,12 @@ work:
     date_end: 2025-03-28
     summary: |2-
       Responsibilities:
-      - Developed a Consent Management Portal in Next.js, utilizing TypeScript, React, and UI libraries like Tailwind CSS and Lucide Icons for a responsive and visually appealing interface.
-      - Engineered and deployed backend services with API authentication and error handling for reliable healthcare data management.
+      - Built an enterprise-grade,accessible Consent Management Portal frontend using Next.js, TypeScript, and Tailwind, adhering to HIPAA standards, enhancing accessibility and regulatory compliance.
+      - Implemented secure backend integrations with RBAC, token auth, and audit logging, ensuring HIPAA-aligned data access and reducing unauthorized access attempts by over 95%.
       - Integrated dynamic UI components with API services using React Query, improving performance and state synchronization.
-      - Built a scalable frontend architecture with modular components, client-side routing, and state management. 
+      - Built a scalable frontend architecture with modular components, client-side routing, and state management.
+      - Participated in architecture/code reviews on Azure-based deployments, improving integration quality and post-deployment defects.
+      
   - position: Software Development Engineer in Test
     company_name: Infosys Limited
     company_url: ''
@@ -127,16 +133,16 @@ work:
       - Collaborated with multi-functional teams to define requirements, develop test plans, design test cases within the SDLC, and support releases, while working in an agile environment to ensure product reliability and performance.
       - Conducted extensive manual and automation testing, achieving a 50% reduction in regression testing time and consistently exceeding daily targets.
       - Leveraged Grafana to track and visualize the quality metrics, driving project success in a €5.578 billion revenue environment.
-  - position: Software Engineer Intern - Front End
-    company_name: MulticoreWare Inc
-    company_url: ''
-    company_logo: ''
-    date_start: 2019-12-02
-    date_end: 2020-03-31
-    summary: |2-
-      Responsibilities:
-      - Developed dynamic and responsive user interfaces for machine learning dashboards using React to facilitate real-time data visualization and ensure seemless integration of back-end data.
-      - Worked alongside UI/UX designers to understand best practices in web design and implement user-friendly features for enhanced user experience.
+  # - position: Software Engineer Intern - Front End
+  #   company_name: MulticoreWare Inc
+  #   company_url: ''
+  #   company_logo: ''
+  #   date_start: 2019-12-02
+  #   date_end: 2020-03-31
+  #   summary: |2-
+  #     Responsibilities:
+  #     - Developed dynamic and responsive user interfaces for machine learning dashboards using React to facilitate real-time data visualization and ensure seemless integration of back-end data.
+  #     - Worked alongside UI/UX designers to understand best practices in web design and implement user-friendly features for enhanced user experience.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -214,4 +220,4 @@ work:
 
 ## About Me
 
-Hi, I am a Full-stack developer with hands-on experience building end-to-end web solutions using Java/Python, React.js, Node.js, and databases such as MS SQL and MongoDB. Recently built CodeOrbit, a full-stack cloud IDE featuring real-time collaboration, containerized execution using Docker, Websockets and AWS-based deployment.Passionate about designing efficient backend services and crafting responsive, user-centric frontends.
+Hi, I’m a full-stack developer with hands-on experience building end-to-end web applications using the MERN and MEVN stacks. I'm passionate about designing clean backend architectures and crafting responsive, user-centric frontends. Recently, I built CodeOrbit, a full-stack cloud IDE featuring real-time collaboration, containerized execution using Docker, Websockets and AWS-powered deployment.
